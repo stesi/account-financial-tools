@@ -6,3 +6,4 @@
 - [Pesol](https://www.pesol.es):
   - Pedro Evaristo Gonzalez Sanchez \<<pedro.gonzalez@pesol.es>\>
 - Salvatore Davide Rapisarda \<<sdrapisarda@gmail.com>\>
+- Gabriele Portente \<<portente.g@stesi.consulting>\>
